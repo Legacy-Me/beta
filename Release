@@ -1,0 +1,20 @@
+Origin: RetroWeirdos Beta
+Label: RetroWeirdos Beta
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Static architecture manifest mapping suite indices.
+MD5Sum:
+ 958317e55f09da798763de24ac25839a 424 Packages
+ 800a21676b73b86fbbd57c21bc567696 320 Packages.gz
+ 800a21676b73b86fbbd57c21bc567696 320 Packages.bz2
+SHA1:
+ dba79303635956ff351f725a812c39c5788f9ce6 424 Packages
+ efacc188541528cbaf0df00d7ce2439a7e063a40 320 Packages.gz
+ efacc188541528cbaf0df00d7ce2439a7e063a40 320 Packages.bz2
+SHA256:
+ a13848f3f13ff1dc5603112cc98c9049ecf5948f71b5a232747bc441a621d089 424 Packages
+ 88896b646c5d65338df88e3ec552c1b5fe46b4abac668eae6e7891eaf6c98c0e 320 Packages.gz
+ 88896b646c5d65338df88e3ec552c1b5fe46b4abac668eae6e7891eaf6c98c0e 320 Packages.bz2
