@@ -6,14 +6,17 @@ Codename: ios
 Architectures: iphoneos-arm
 Components: main
 Description: Static architecture manifest mapping suite indices.
+
 MD5Sum:
  128eba8d3d380daa7b7cb31ab3eb5f98 472 Packages
  f66bf9142f9c72a58e85d319919d07b0 359 Packages.gz
  f66bf9142f9c72a58e85d319919d07b0 359 Packages.bz2
+
 SHA1:
  e73505faa05a1f9cd20ab22ff5bcfa55b92ac27d 472 Packages
  61c05c45f54fbe905af937469230d9a22bda61c8 359 Packages.gz
  61c05c45f54fbe905af937469230d9a22bda61c8 359 Packages.bz2
+
 SHA256:
  76bfa4f4e03799553e79f14bfa704c89ba776ff2649c3aafc7d5d3d81107b7bd 472 Packages
  2c114a02dfbf6e67d2e395c74a582abc6bfe3caa521aadff38411f27a24f3c00 359 Packages.gz
