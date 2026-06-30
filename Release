@@ -1,5 +1,5 @@
-Origin: RetroWeirdos Beta
-Label: RetroWeirdos Beta
+Origin: hcvng
+Label: hcvng
 Suite: stable
 Version: 1.0
 Codename: ios
@@ -7,14 +7,14 @@ Architectures: iphoneos-arm
 Components: main
 Description: Static architecture manifest mapping suite indices.
 MD5Sum:
- 958317e55f09da798763de24ac25839a 424 Packages
- 800a21676b73b86fbbd57c21bc567696 320 Packages.gz
- 800a21676b73b86fbbd57c21bc567696 320 Packages.bz2
+ 9cd95f5d7f4b0e96974c90e0a780c381 765 Packages
+ 143d18a7270aa9eca501fca54eaa0acf 328 Packages.gz
+ 143d18a7270aa9eca501fca54eaa0acf 328 Packages.bz2
 SHA1:
- dba79303635956ff351f725a812c39c5788f9ce6 424 Packages
- efacc188541528cbaf0df00d7ce2439a7e063a40 320 Packages.gz
- efacc188541528cbaf0df00d7ce2439a7e063a40 320 Packages.bz2
+ 6ba04eb603c2588eb3d339de778a2e3e91106695 765 Packages
+ 91b194ce4a576101a75bb437d248d1485c8b62a3 328 Packages.gz
+ 91b194ce4a576101a75bb437d248d1485c8b62a3 328 Packages.bz2
 SHA256:
- a13848f3f13ff1dc5603112cc98c9049ecf5948f71b5a232747bc441a621d089 424 Packages
- 88896b646c5d65338df88e3ec552c1b5fe46b4abac668eae6e7891eaf6c98c0e 320 Packages.gz
- 88896b646c5d65338df88e3ec552c1b5fe46b4abac668eae6e7891eaf6c98c0e 320 Packages.bz2
+ b1727aa79409975e28f23a1ffb91605c59321eb9d312020b1b20c023785acac6 765 Packages
+ 98629f6b11e3c44275e76f288cf6cd3cfaf4419dfce5e9fca3f1709192953675 328 Packages.gz
+ 98629f6b11e3c44275e76f288cf6cd3cfaf4419dfce5e9fca3f1709192953675 328 Packages.bz2
