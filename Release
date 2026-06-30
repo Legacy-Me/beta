@@ -1,5 +1,5 @@
-Origin: hcvng
-Label: hcvng
+Origin: wdadwa
+Label: wdadwa
 Suite: stable
 Version: 1.0
 Codename: ios
@@ -7,14 +7,14 @@ Architectures: iphoneos-arm
 Components: main
 Description: Static architecture manifest mapping suite indices.
 MD5Sum:
- 9cd95f5d7f4b0e96974c90e0a780c381 765 Packages
- 143d18a7270aa9eca501fca54eaa0acf 328 Packages.gz
- 143d18a7270aa9eca501fca54eaa0acf 328 Packages.bz2
+ 128eba8d3d380daa7b7cb31ab3eb5f98 472 Packages
+ f66bf9142f9c72a58e85d319919d07b0 359 Packages.gz
+ f66bf9142f9c72a58e85d319919d07b0 359 Packages.bz2
 SHA1:
- 6ba04eb603c2588eb3d339de778a2e3e91106695 765 Packages
- 91b194ce4a576101a75bb437d248d1485c8b62a3 328 Packages.gz
- 91b194ce4a576101a75bb437d248d1485c8b62a3 328 Packages.bz2
+ e73505faa05a1f9cd20ab22ff5bcfa55b92ac27d 472 Packages
+ 61c05c45f54fbe905af937469230d9a22bda61c8 359 Packages.gz
+ 61c05c45f54fbe905af937469230d9a22bda61c8 359 Packages.bz2
 SHA256:
- b1727aa79409975e28f23a1ffb91605c59321eb9d312020b1b20c023785acac6 765 Packages
- 98629f6b11e3c44275e76f288cf6cd3cfaf4419dfce5e9fca3f1709192953675 328 Packages.gz
- 98629f6b11e3c44275e76f288cf6cd3cfaf4419dfce5e9fca3f1709192953675 328 Packages.bz2
+ 76bfa4f4e03799553e79f14bfa704c89ba776ff2649c3aafc7d5d3d81107b7bd 472 Packages
+ 2c114a02dfbf6e67d2e395c74a582abc6bfe3caa521aadff38411f27a24f3c00 359 Packages.gz
+ 2c114a02dfbf6e67d2e395c74a582abc6bfe3caa521aadff38411f27a24f3c00 359 Packages.bz2

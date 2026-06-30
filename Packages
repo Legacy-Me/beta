@@ -1,25 +1,14 @@
-Package: zgzr
-Name: fdgzf
+Package: dwwddw
+Name: efewe
 Version: 1.0.0
 Architecture: iphoneos-arm
+Maintainer: dwadwadw
+Author: wwadwa
 Depends: mobilesubstrate, firmware (>= 5.0)
-Filename: ./debs/ai.akemi.appsyncunified_116.1_iphoneos-arm64.deb
-Size: 77706
-MD5sum: a89748ab2388f6f6921a3a1732808bbe
-SHA1: dba5ce2e39fd2bb149f94750efa60a3b9e20eb78
-SHA256: 029de0bace218a414870d1faeb71ed8b1f81b219f2b9e1b60157cd3ea36915fd
+Filename: ./debs/ai.akemi.appinst_2.1.1_iphoneos-arm64~akemi-git-235aca6cddfbdc9fa87fcb5b2aec2df37ed6d65a.deb
+Size: 59538
+MD5sum: e6d2a75aca6914175323aa421dd8ba1a
+SHA1: 1af6238bedc0cb46528c0f1b601229e2314f5eba
+SHA256: 71d53a9d7f7b5c90f2fa43fff30dbce842e48f219011c8febb4439ffc5f461e2
 Section: Tweaks
-Description: grzgrz
-
-Package: r
-Name: r
-Version: 1.0.0
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, firmware (>= 5.0)
-Filename: ./debs/ai.akemi.appsyncunified_116.1_iphoneos-arm64.deb
-Size: 77706
-MD5sum: a89748ab2388f6f6921a3a1732808bbe
-SHA1: dba5ce2e39fd2bb149f94750efa60a3b9e20eb78
-SHA256: 029de0bace218a414870d1faeb71ed8b1f81b219f2b9e1b60157cd3ea36915fd
-Section: Tweaks
-Description: rzg
+Description: wdadwdwaw
